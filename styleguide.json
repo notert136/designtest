@@ -83,6 +83,14 @@
         "value": "0px",
         "type": "dimension"
       }
+    },
+    "new": {
+      "value": "#9c0000",
+      "type": "color"
+    },
+    "default": {
+      "value": "4px",
+      "type": "spacing"
     }
   },
   "$themes": [],
