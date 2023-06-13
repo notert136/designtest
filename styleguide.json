@@ -2,8 +2,8 @@
   "global": {
     "123": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-0}",
+        "fontFamily": "{fontFamilies.lato}",
+        "fontWeight": "{fontWeights.lato-0}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.0}",
@@ -14,6 +14,10 @@
       },
       "type": "typography"
     },
+    "123213": {
+      "value": "#d9d9d9",
+      "type": "color"
+    },
     "Text-Primary": {
       "value": "#000000",
       "type": "color"
@@ -21,6 +25,10 @@
     "fontFamilies": {
       "inter": {
         "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "lato": {
+        "value": "Lato",
         "type": "fontFamilies"
       }
     },
@@ -33,6 +41,10 @@
     "fontWeights": {
       "inter-0": {
         "value": "Semi Bold",
+        "type": "fontWeights"
+      },
+      "lato-0": {
+        "value": "SemiBold",
         "type": "fontWeights"
       }
     },
