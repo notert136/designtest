@@ -1,4 +1,10 @@
 {
+  "111": {
+    "123": {
+      "value": "123333333333333",
+      "type": "sizing"
+    }
+  },
   "123": {
     "123": {
       "value": "123123",
@@ -13,105 +19,11 @@
       "type": "color"
     }
   },
-  "global": {
-    "123": {
-      "value": {
-        "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-0}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "123213": {
-      "value": "#d9d9d9",
-      "type": "color"
-    },
-    "Text-Primary": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "fontFamilies": {
-      "inter": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      },
-      "lato": {
-        "value": "Lato",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "AUTO",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "inter-0": {
-        "value": "Semi Bold",
-        "type": "fontWeights"
-      },
-      "lato-0": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "12",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "paragraphIndent": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
-      }
-    },
-    "new": {
-      "value": "#9c0000",
-      "type": "color"
-    },
-    "default": {
-      "value": "4px",
-      "type": "spacing"
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "123",
-      "global"
+      "111",
+      "123"
     ]
   }
 }
