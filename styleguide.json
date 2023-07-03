@@ -963,6 +963,17 @@
           },
           "type": "typography",
           "description": "text-sm, leading-5, font-semibold, uppercase"
+        },
+        "btn-xs": {
+          "value": {
+            "fontFamily": "{fontFamilies.public-sans}",
+            "fontWeight": "{fontWeights.public-sans-2}",
+            "lineHeight": "{lineHeights.6}",
+            "fontSize": "{fontSize.2}",
+            "textCase": "{textCase.uppercase}"
+          },
+          "type": "typography",
+          "description": "text-xs, leading-4, font-semibold, uppercase"
         }
       },
       "other": {
