@@ -969,7 +969,7 @@
             "fontFamily": "{fontFamilies.public-sans}",
             "fontWeight": "{fontWeights.public-sans-2}",
             "lineHeight": "{lineHeights.6}",
-            "fontSize": "{fontSize.2}",
+            "fontSize": "{fontSize.1}",
             "textCase": "{textCase.uppercase}"
           },
           "type": "typography",
