@@ -1,5 +1,5 @@
 {
-  "alias": {
+  "resrequest": {
     "color-alias": {
       "divider": {
         "divider": {
@@ -159,6 +159,11 @@
           "value": "#fee2e2",
           "type": "color",
           "description": "red-100"
+        },
+        "bg-brand": {
+          "value": "#FFF2F2",
+          "type": "color",
+          "description": "brand-30"
         }
       },
       "brand": {
@@ -171,11 +176,6 @@
           "value": "#171717",
           "type": "color",
           "description": "neutral-900"
-        },
-        "brand-tertiary": {
-          "value": "#c3c3c3",
-          "type": "color",
-          "description": "neutral-250"
         }
       },
       "decoration": {
@@ -246,10 +246,6 @@
         "neutral-150": {
           "value": "#f0f0f0",
           "type": "color"
-        },
-        "neutral-250": {
-          "value": "#c3c3c3",
-          "type": "color"
         }
       },
       "brand-global": {
@@ -295,6 +291,10 @@
         },
         "brand-50": {
           "value": "#ffebeb",
+          "type": "color"
+        },
+        "brand-30": {
+          "value": "#FFF2F2",
           "type": "color"
         }
       }
@@ -1135,7 +1135,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "alias"
+      "resrequest"
     ]
   }
 }
